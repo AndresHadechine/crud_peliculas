@@ -11,6 +11,7 @@
 	<groupId>co.com.elpoli</groupId>
 	<artifactId>PeliculasCrudPDP</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
 	<name>PeliculasCrudPDP</name>
 	<description>Crud de peliculas hecho en Java Spring Boot</description>
 	<properties>
